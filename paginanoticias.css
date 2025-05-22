@@ -1,0 +1,24 @@
+.special {
+    color: rgb(255, 255, 255);
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+
+
+.TituloPg {
+    font-size: x-large;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+a {
+    text-align: center;
+    font-size: large;
+    color: yellow;
+    background-color: blueviolet
+}
